@@ -1,0 +1,15 @@
+{
+  "name": "team-sirenix.odin-serializer",
+  "displayName": "Odin Serializer",
+  "version": "2.6.1",
+  "unity": "2017.1",
+  "description": "Fast, robust, powerful and extendible .NET serializer built for Unity.",
+  "keywords": [
+    "serializer",
+    ".NET",
+    "unity"
+  ],
+  "author": {
+    "name": "TeamSirenix"
+  }
+}
