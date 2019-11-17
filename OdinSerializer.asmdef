@@ -1,6 +1,8 @@
 {
     "name": "OdinSerializer.OdinSerializer",
-    "references": [],
+    "references": [
+        "GUID:38257907825824cbd959d0a6e1ec6e8f"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
@@ -8,5 +10,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
-    }
+    "versionDefines": [],
+    "noEngineReferences": false
+}
