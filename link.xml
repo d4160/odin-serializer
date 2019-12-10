@@ -1,5 +1,6 @@
 <linker>
   <assembly fullname="OdinSerializer">
+    <namespace fullname="OdinSerializer" preserve="all"/>
     <namespace fullname="OdinSerializer.*" preserve="all"/>
   </assembly>
 </linker>
