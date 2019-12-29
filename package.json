@@ -11,5 +11,10 @@
   ],
   "author": {
     "name": "TeamSirenix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d4160/odin-serializer.git"
   }
+
 }
